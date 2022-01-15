@@ -1,0 +1,4 @@
+{
+    "port":"5000",
+    "mongoUri":"mongodb+srv://belamstel:12345@cluster0.muuae.mongodb.net/myApp?retryWrites=true&w=majority"
+}
